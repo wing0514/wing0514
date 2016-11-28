@@ -17,11 +17,11 @@
 }
 
 html{
-  background: rgb(121, 36, 189);
+  background: rgba(121, 36, 189, 0.81);
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 45px;
     font-family: 'pigmo';
     margin: 0px auto 10px;
     padding-top: 30px;
