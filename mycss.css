@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'pigmo';
+    src: local('pigmo');
+    src: url('Pigmo-01.otf');
+}
+
+@font-face {
+    font-family: 'g_comickoin_free-Regular';
+    src: local('g_comickoin_free-Regular');
+    src: url('g_comickoin_freeR.ttf');
+}
+
+@font-face {
+    font-family: 'yasashisa';
+    src: local('yasashisa');
+    src: url('07YasashisaAntique.otf');
+}
+
+html{
+  background: rgb(121, 36, 189);
+}
+
+h1 {
+    font-size: 30px;
+    font-family: 'pigmo';
+    margin: 0px auto 10px;
+    padding-top: 30px;
+}
+
+h2{
+  font-family: 'yasashisa';
+  padding-top: 12px;
+}
+
+span{
+    font-family: 'yasashisa';
+}
+
+body {
+    text-align: center;
+}
+
+#name {
+    margin: 20px;
+}
+
+#result {
+    font-family: 'g_comickoin_free-Regular';
+    font-size: 40px;
+    padding: 35px 0px 10px 0px;
+}
+
+#getResult {
+    margin: 10px auto 20px;
+    border-radius: 8px;
+}
